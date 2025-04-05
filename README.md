@@ -35,8 +35,9 @@ chmod +x integrity-check.py
 ```
 
 All hashes are stored in ~/.logfile_integrity/hashes.json for safe keeping.
-```
-https://roadmap.sh/projects/file-integrity-checker
-```
+
 ## Result
 ![image](https://github.com/user-attachments/assets/78251f95-5366-40fa-8d8a-1a08bd34f9dd)
+
+## Project
+[https://roadmap.sh/projects/file-integrity-checker]
